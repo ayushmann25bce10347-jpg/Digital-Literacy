@@ -1,0 +1,53 @@
+Part A: Case Study
+
+Topic: UPI/Online Payment Fraud. The "QR Code" Deception
+
+What is the Crime:
+
+UPI Payment Fraud is when someone tricks you into letting them take money from your bank account. This is not a hack but rather someone trying to confuse you about how the Unified Payments Interface works. They want you to think they are sending you money. Really they are taking it.
+
+How it Usually Happens:
+
+* The Bait: A scammer looks for people selling things on websites like OLX or on college "Buy/Sell" groups. They find someone selling something, like a textbook or a bicycle.
+
+* The Social Engineering: The scammer says they are out of town but wants to pay for the item in advance.
+
+* The Fraudulent QR: The scammer sends a QR code on WhatsApp. Says, "Scan this to get the money in your account."
+
+* The Authorization: You scan the code. The UPI app asks for your PIN. The scammer says, "You just need to enter your PIN to show it's you."
+
+* The Theft: When you enter your PIN you are actually letting the scammer take money from your account. The money is gone away.
+
+Who is Targeted:
+
+people and students who buy and sell things online and small business owners on campus who use digital payments.
+
+Consequences:
+
+The first problem is that you lose money and its hard to get it back because it happens fast. Then you might feel stressed, distracted from school and scared of using money.
+
+Part B: Prevention Checklist
+
+Stay Safe Online: A Guide for Students
+
+* The PIN Rule: You never have to enter your UPI PIN to get money. If a QR code asks for your PIN, its trying to take money from you.
+
+* Verify the Name: Before you confirm a UPI transaction check the name that shows up in the app. If it doesn't match the person you're talking to stop.
+
+* Secure Your WhatsApp: Turn on Two-Step Verification in WhatsApp to prevent hackers from taking over your account.
+
+* Audit App Permissions: Go to your phone settings and remove permissions for apps that don't need them. This can help prevent apps from getting your information.
+
+* Avoid Public Wi-Fi for Banking: Don't use Wi-Fi to access your bank or UPI apps. Use your phones data instead.
+
+* Screen Sharing Warning: Don't download apps, like AnyDesk or TeamViewer if someone asks you to. These can let scammers see your passwords.
+
+* Check the URL: Before you enter your login information on a college website make sure the address starts with https:// and check for typos.
+
+* Report Immediately: If you see a transaction block your card or UPI ID right away using your banks app or helpline.
+
+Official Reporting Channels:
+
+* National Cyber Crime Portal
+
+* Helpline Number: 1930 Call this number away if you think you've been scammed.
